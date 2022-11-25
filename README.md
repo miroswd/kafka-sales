@@ -5,11 +5,11 @@
 - Call the business rule to process the sale
 
 
-![partitions]()
+![partitions](https://github.com/miroswd/kafka-sales/blob/main/assets/partitions.png)
 
-![late-sales]()
+![late-sales](https://github.com/miroswd/kafka-sales/blob/main/assets/late-sales.png)
 
-![sales-partitions]()
+![sales-partitions](https://github.com/miroswd/kafka-sales/blob/main/assets/sales-partition.png)
 
 
 ### Start application
